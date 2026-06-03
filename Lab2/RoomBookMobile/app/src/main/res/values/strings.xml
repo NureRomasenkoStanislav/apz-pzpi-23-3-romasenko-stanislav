@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">RoomBookMobile</string>
+    <string name="server_login_attempt">Спроба входу на сервер...</string>
+    <string name="auth_success">Авторизовано. Оновіть список кімнат.</string>
+    <string name="auth_error">Помилка авторизації: Код %1$d</string>
+    <string name="server_connection_error">Сервер вимкнено або немає зв\'язку.</string>
+    <string name="time_selected_format">Обрано: %1$04d-%2$02d-%3$02d %4$02d:%5$02d</string>
+    <string name="wait_token">Токен ще не отримано. Зачекайте...</string>
+    <string name="token_missing">Токен відсутній!</string>
+    <string name="load_rooms_first">Спочатку завантажте список кімнат!</string>
+    <string name="invalid_room_selection">Некоректний вибір кімнати!</string>
+    <string name="sending_booking_request">Надсилаю запит на бронювання кімнати №%1$d...</string>
+    <string name="booking_success">КІМНАТУ УСПІШНО ЗАБРОНЬОВАНО!\nНомер запису в БД: %1$d</string>
+    <string name="booking_logic_error">Помилка бізнес-логіки беку (Код %1$d):\n%2$s</string>
+    <string name="booking_network_error">Мережева помилка створення броні.</string>
+    <string name="loading_report">Запит звіту...</string>
+    <string name="report_success">ЗВІТ:\nВсього кімнат у системі: %1$d\nСервер активний!</string>
+    <string name="report_error">Помилка звіту.</string>
+    <string name="report_network_error">Помилка мережі звіту.</string>
+    <string name="room_item_format">%1$s (Місць: %2$d)</string>
+    <string name="available_rooms_header">ДОСТУПНІ КІМНАТИ:\n\n</string>
+    <string name="room_row_format">• %1$s — Місць: %2$d\n</string>
+    <string name="rooms_server_error">Помилка сервера при отриманні кімнат.</string>
+    <string name="rooms_network_error">Не вдалося оновити Spinner кімнат через мережеву помилку.</string>
+</resources>

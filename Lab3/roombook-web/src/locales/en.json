@@ -1,0 +1,35 @@
+{
+  "auth": {
+    "title": "RoomBook Web System",
+    "email": "Email Address",
+    "password": "Password",
+    "loginUser": "Login as User",
+    "loginAdmin": "Login as Administrator",
+    "error": "Invalid email or password"
+  },
+  "nav": {
+    "userCabinet": "User Dashboard",
+    "adminPanel": "Admin Control Panel",
+    "logout": "Logout"
+  },
+  "user": {
+    "title": "Available Rooms for Booking",
+    "capacity": "Seats",
+    "bookBtn": "Book This Room",
+    "successBook": "Room successfully reserved!"
+  },
+  "admin": {
+    "title": "Infrastructure Property Management",
+    "formTitle": "Room Editor Form",
+    "idHint": "Room ID (only for edit/delete)",
+    "name": "Room Name",
+    "capacity": "Capacity (persons)",
+    "create": "CREATE NEW ROOM",
+    "update": "UPDATE ROOM DATA",
+    "delete": "DELETE ROOM FROM DB",
+    "backupTitle": "System Security & Backup Operations",
+    "btnBackup": "Export System Backup (JSON File)",
+    "btnImport": "Import Configuration File",
+    "success": "Operation completed successfully!"
+  }
+}
